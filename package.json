@@ -1,0 +1,24 @@
+{
+  "name": "design-portfolio",
+  "version": "1.0.0",
+  "description": "design portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnHernandezOlvera/design-portfolio.git"
+  },
+  "keywords": [
+    "design",
+    "social",
+    "media"
+  ],
+  "author": "Anahí Hernández Olvera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnHernandezOlvera/design-portfolio/issues"
+  },
+  "homepage": "https://github.com/AnHernandezOlvera/design-portfolio#readme"
+}
