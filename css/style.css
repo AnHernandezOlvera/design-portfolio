@@ -1631,6 +1631,7 @@ body.modal{overflow: hidden;}
 	bottom: 0px;
 	left: 0px;
 	right: 0px;
+	background: url("../img/contact.jpg");
 }
 .shane_tm_talk .overlay{
 	position: absolute;
