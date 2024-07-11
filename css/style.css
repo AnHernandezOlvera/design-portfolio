@@ -508,7 +508,7 @@ h6 { font-size: 16px; }
 	margin-bottom: 6px;
 }
 .shane_tm_hero .job_wrap{
-	width: 100%;
+	width: 45%;
 	height: auto;
 	clear: both;
 	float: left;
@@ -2008,6 +2008,9 @@ body.modal{overflow: hidden;}
 	.shane_tm_mobalbox_contact .close .svg{color: #777;width: 25px;height: 25px;}
 }
 @media (max-width: 1040px) {
+	.shane_tm_hero .job_wrap{
+		width: 100%;
+	}
 	.shane_tm_hero{flex-direction: column;}
 	.shane_tm_topbar{display: none;}
 	.shane_tm_mobile_menu{display: block;}
